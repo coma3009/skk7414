@@ -3,9 +3,9 @@
 +  [Team SpaceDEV](https://github.com/spacedev-official) - Team SpaceDEV에서 짱구봇개발중
 # 짱구봇
 <p align="center">
-    <a href="https://koreanbots.dev/bots/915546504054333450" target="_blank"><img src="https://koreanbots.dev/api/widget/bots/status/915546504054333450.svg?scale=1.0"></a>
-    <a href="https://koreanbots.dev/bots/915546504054333450" target="_blank"><img src="https://koreanbots.dev/api/widget/bots/servers/915546504054333450.svg?scale=1.0"></a>
-    <a href="https://koreanbots.dev/bots/915546504054333450/vote" target="_blank"><img src="https://koreanbots.dev/api/widget/bots/votes/915546504054333450.svg?scale=1.0"></a>
+    <a href="https://koreanbots.dev/bots/1009433137803169922" target="_blank"><img src="https://koreanbots.dev/api/widget/bots/status/1009433137803169922.svg?scale=1.0"></a>
+    <a href="https://koreanbots.dev/bots/1009433137803169922" target="_blank"><img src="https://koreanbots.dev/api/widget/bots/servers/1009433137803169922.svg?scale=1.0"></a>
+    <a href="https://koreanbots.dev/bots/1009433137803169922/vote" target="_blank"><img src="https://koreanbots.dev/api/widget/bots/votes/1009433137803169922.svg?scale=1.0"></a>
 </p>
 <p align="center">
   <b>🔗 Some Links 🔗</b><br>
